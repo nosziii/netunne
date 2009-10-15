@@ -38,7 +38,9 @@ Conectando, voce vera toda a arvore de arquivos de seu Netunne, tome cuidado poi
 
 Navegue no lado direito (remoto) ate a pasta: /NEXUS/nexus/core/nlib/
 
-No lado esquerdo (local), navegue ate a pasta que contem o core_common.php modificado.
+Renomeie o core_commom.php para core_common.nx
+
+No lado esquerdo (local), navegue ate a pasta que contem o core_common.nx modificado.
 
 Arraste o core_common.php do lado esquerdo para o lado direito, o filezilla ira perguntar se quer sobreescrever, diga que sim.
 
