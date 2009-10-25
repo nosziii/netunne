@@ -42,6 +42,6 @@ Renomeie o core_commom.php para core_common.nx
 
 No lado esquerdo (local), navegue ate a pasta que contem o core_common.nx modificado.
 
-Arraste o core_common.php do lado esquerdo para o lado direito, o filezilla ira perguntar se quer sobreescrever, diga que sim.
+Arraste o core_common.nx do lado esquerdo para o lado direito, o filezilla ira perguntar se quer sobreescrever, diga que sim.
 
 Se tudo ocorreu bem, acesse seu netunne normalmente e va na opcao de Info. de Atualizacao, que voce vera o novo nome do sistema, ao inves de Provider.
